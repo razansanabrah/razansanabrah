@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Razan 👋
 
-<!--
-**razansanabrah/razansanabrah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Robotics & Artificial Intelligence Engineering student interested in building practical solutions with Python.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤖 Studying Robotics & Artificial Intelligence Engineering
+- 🐍 Building my skills in Python through practical projects
+- 💻 Interested in software development, automation, and AI
+- 🌱 Currently expanding my knowledge in Python and Git/GitHub
+
+## Projects
+
+### [Python File Organizer](https://github.com/razansanabrah/Python-File-Organizer)
+A Python script that automatically organizes files by type and safely handles duplicate filenames.
+
+More projects coming soon as I continue building and learning.
